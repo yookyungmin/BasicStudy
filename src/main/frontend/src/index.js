@@ -10,6 +10,9 @@ root.render(
     <App />
   </React.StrictMode>
 );
+/*
+<App />JSX 문법 형태 App.js 파일을 컴포넌트화 시켜서 코드로 압축해서 변형시킨것
+ */
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
